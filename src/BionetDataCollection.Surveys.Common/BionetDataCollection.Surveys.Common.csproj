@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>BionetDataCollection.Surveys.Common Class Library</Description>
+    <TargetFramework>net7.0</TargetFramework>
+    <AssemblyName>BionetDataCollection.Surveys.Common</AssemblyName>
+    <PackageId>BionetDataCollection.Surveys.Common</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+  
+</Project>

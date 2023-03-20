@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tailspin.Surveys.WebAPI.props" />
+</Project>

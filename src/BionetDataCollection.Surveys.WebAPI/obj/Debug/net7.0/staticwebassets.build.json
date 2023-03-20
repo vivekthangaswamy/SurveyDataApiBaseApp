@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "w5pR9zl4jMOBzdINI7s5KBr+q3DgMj1AqUcbJMHX6Oc=",
+  "Source": "BionetDataCollection.Surveys.WebAPI",
+  "BasePath": "_content/BionetDataCollection.Surveys.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BionetDataCollection.Surveys.WebAPI\\wwwroot",
+      "Source": "BionetDataCollection.Surveys.WebAPI",
+      "ContentRoot": "C:\\Users\\localadmin\\source\\repos\\multitenant-saas-guidance\\src\\BionetDataCollection.Surveys.WebAPI\\wwwroot\\",
+      "BasePath": "_content/BionetDataCollection.Surveys.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\localadmin\\source\\repos\\multitenant-saas-guidance\\src\\BionetDataCollection.Surveys.WebAPI\\wwwroot\\web.config",
+      "SourceId": "BionetDataCollection.Surveys.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\localadmin\\source\\repos\\multitenant-saas-guidance\\src\\BionetDataCollection.Surveys.WebAPI\\wwwroot\\",
+      "BasePath": "_content/BionetDataCollection.Surveys.WebAPI",
+      "RelativePath": "web.config",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web.config"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\bin\Debug\net5.0\Tailspin.Surveys.Common.deps.json
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\bin\Debug\net5.0\Tailspin.Surveys.Common.dll
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\bin\Debug\net5.0\Tailspin.Surveys.Common.pdb
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\obj\Debug\net5.0\Tailspin.Surveys.Common.csproj.AssemblyReference.cache
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\obj\Debug\net5.0\Tailspin.Surveys.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\obj\Debug\net5.0\Tailspin.Surveys.Common.AssemblyInfoInputs.cache
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\obj\Debug\net5.0\Tailspin.Surveys.Common.AssemblyInfo.cs
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\obj\Debug\net5.0\Tailspin.Surveys.Common.csproj.CoreCompileInputs.cache
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\obj\Debug\net5.0\Tailspin.Surveys.Common.dll
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\obj\Debug\net5.0\refint\Tailspin.Surveys.Common.dll
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\obj\Debug\net5.0\Tailspin.Surveys.Common.pdb
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\Tailspin.Surveys.Common\obj\Debug\net5.0\ref\Tailspin.Surveys.Common.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tailspin.Surveys.WebAPI.props" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\bin\Debug\net7.0\BionetDataCollection.Surveys.Security.deps.json
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\bin\Debug\net7.0\BionetDataCollection.Surveys.Security.dll
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\bin\Debug\net7.0\BionetDataCollection.Surveys.Security.pdb
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\bin\Debug\net7.0\BionetDataCollection.Surveys.Common.dll
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\bin\Debug\net7.0\BionetDataCollection.Surveys.Data.dll
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\bin\Debug\net7.0\BionetDataCollection.Surveys.Data.pdb
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\bin\Debug\net7.0\BionetDataCollection.Surveys.Common.pdb
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\obj\Debug\net7.0\BionetDataCollection.Surveys.Security.csproj.AssemblyReference.cache
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\obj\Debug\net7.0\BionetDataCollection.Surveys.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\obj\Debug\net7.0\BionetDataCollection.Surveys.Security.AssemblyInfoInputs.cache
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\obj\Debug\net7.0\BionetDataCollection.Surveys.Security.AssemblyInfo.cs
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\obj\Debug\net7.0\BionetDataCollection.Surveys.Security.csproj.CoreCompileInputs.cache
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\obj\Debug\net7.0\BionetDataCollection.Surveys.Security.csproj.CopyComplete
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\obj\Debug\net7.0\BionetDataCollection.Surveys.Security.dll
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\obj\Debug\net7.0\refint\BionetDataCollection.Surveys.Security.dll
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\obj\Debug\net7.0\BionetDataCollection.Surveys.Security.pdb
+C:\Users\localadmin\source\repos\multitenant-saas-guidance\src\BionetDataCollection.Surveys.Security\obj\Debug\net7.0\ref\BionetDataCollection.Surveys.Security.dll

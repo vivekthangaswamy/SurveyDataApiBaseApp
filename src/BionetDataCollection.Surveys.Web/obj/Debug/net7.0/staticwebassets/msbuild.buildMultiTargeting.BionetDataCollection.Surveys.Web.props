@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BionetDataCollection.Surveys.Web.props" />
+</Project>
